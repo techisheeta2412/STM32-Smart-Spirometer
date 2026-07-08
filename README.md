@@ -65,6 +65,3 @@ This project helped me gain practical experience in:
 
 The complete project report is available in this repository.
 
-## Disclaimer
-
-This project is an academic embedded systems prototype and is not a certified medical diagnostic device.
